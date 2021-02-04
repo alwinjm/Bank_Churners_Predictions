@@ -7,3 +7,6 @@ The problem at hand is that of a bank manager who is faced with an increasing nu
 ## Set-Up
 - Download 'BankChurners.csv' from the aforementioned URL.
 - Read the csv file into a new python file.
+- Install imblearn using the command ```pip install imblearn```
+  
+
