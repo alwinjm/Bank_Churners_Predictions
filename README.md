@@ -35,5 +35,8 @@ It has been assumed that the user has python installed on their machine with all
 - `Total_Trans_Ct`: Total number of transactions in the last 12 months
 - `Total_Ct_Chng_Q4_Q1`: Change in transaction count from Q4 to Q1 
 - `Avg_Utilization_Ratio`: Average card utilization ratio 
+
+NOTE --> Drop the last two columns: `Naive_Bayes_Classifier_Attrition_Flag_Card_Category_Contacts_Count_12_mon_Dependent_count_Education_Level_Months_Inactive_12_mon_1`, and 
+`Naive_Bayes_Classifier_Attrition_Flag_Card_Category_Contacts_Count_12_mon_Dependent_count_Education_Level_Months_Inactive_12_mon_2` 
   
 
